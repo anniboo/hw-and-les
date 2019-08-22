@@ -5,5 +5,6 @@
 
 import os, sys
 
-import Boldyrevahw5_1
+import hw5_1
+
 
