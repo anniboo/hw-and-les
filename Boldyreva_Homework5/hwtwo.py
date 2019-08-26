@@ -11,8 +11,8 @@ def spisok(list):
     else:
         result = random.choice(list)
         return result
-
-h = spisok(listik)
-print(h)
-m = spisok(listok)
-print(m)
+if __name__ == '__main__':
+    h = spisok(listik)
+    print(h)
+    m = spisok(listok)
+    print(m)
